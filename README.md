@@ -2,6 +2,8 @@
 
 [![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=220&section=header&text=NIMIT%20WORK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20SaaS%20Products%2C%20Web%20Applications%20%26%20Automation%20Solutions&descAlignY=62&descSize=16)](https://github.com/NimitWork)
 
+<img src="https://github.com/NimitWork.png" alt="NIMIT WORK" width="150" height="150" style="border-radius: 50%; border: 4px solid #0ea5e9; margin-top: -80px;" />
+
 ### 🚀 **NIMIT WORK**
 
 **Building Scalable SaaS Products, Web Applications & Automation Solutions**
